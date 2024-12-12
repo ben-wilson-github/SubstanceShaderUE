@@ -101,7 +101,7 @@
 	<!-- ADDED BY CALVIN -->
 	<uniform name="UseUE4Shading"     guiGroup="Shading"     guiName="Use UE4 Shading"        default="true"      guiWidget="checkbox" />
 	<uniform name="UseIBL"     		  guiGroup="Shading"     guiName="Use IBL"        		  default="true"      guiWidget="checkbox" />
-	<uniform name="nbSamples"         guiGroup="Shading"     guiName="Number of IBL Samples"  default="64" min="6"guiWidget="slider"  guiMin="6"  guiMax="64"/>
+	<uniform name="nbSamples"         guiGroup="Shading"     guiName="Number of IBL Samples"  default="64" min="6" guiWidget="slider"  guiMin="6"  guiMax="64"/>
 	<uniform name="UseACES"     	  guiGroup="Shading"     guiName="Use ACES Tonemapping"   default="true"      guiWidget="checkbox" />
 	<uniform name="UseBurleyDiffuse"  guiGroup="Shading"     guiName="Use Burley Diffuse"     default="false"     guiWidget="checkbox" />
 	<uniform name="UseDirLight"       guiGroup="Directional Light"     guiName="Use Directional Light"        	default="false"      	guiWidget="checkbox" />
